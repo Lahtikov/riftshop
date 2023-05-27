@@ -70,13 +70,13 @@ body {
     margin-right: 80px;
 }
 .block1 {
-    background: url(images/iPhone14pro.jpg) fixed 50% 4%;
+    background: url(images/main/iPhone14pro.jpg) fixed 50% 4%;
     color: #FFFFFF;
     padding-top: 50px;
 }
 
 .block2 {
-    background: url(images/xboxs.jpg) no-repeat 100%;
+    background: url(images/main/xboxs.jpg) no-repeat 100%;
     background-color: #F3F3F3;
     text-align: 25px;
 }
@@ -86,7 +86,7 @@ body {
 }
 
 .block3 {
-    background: url(images/applewatch.jpg) no-repeat fixed 50% 100%;
+    background: url(images/main/applewatch.jpg) no-repeat fixed 50% 100%;
     background-color: black;
     color: #FFFFFF;
 }
@@ -98,29 +98,34 @@ body {
 }
 
 .block4 {
-    background: url(images/iPhone14.jpg) no-repeat 50%;
+    background: url(images/main/iPhone14.jpg) no-repeat 50%;
 }
 
 .block5 {
-    background: url(images/iPhone14pro.jpg) no-repeat 45%;
+    background: url(images/main/iPhone14pro.jpg) no-repeat 45%;
     color: #FFFFFF;
 }
 .left1 {
-    background: url(images/subscriptions.jpeg);
+    background: url(images/main/subscriptions.jpeg);
     height: 320px;
     width: 540px;
     margin-right: 80px;
 }
 .right1 {
-    background-image: url(images/One.jpeg);
+    background-image: url(images/text/text_one.jpeg);
     height: 100px;
     width: 317px;
 }
 .left2 {
-    background: url(images/fitness.jpeg);
+    background: url(images/main/fitness.jpeg);
     width: 600px;
     height: 300px;
     margin-right: 100px;
+}
+.left3 {
+    background-image: url(images/main/news.jpg);
+    width: 700px;
+    height: 600px;
 }
 footer {
     padding-top: 30px;
