@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+.complex_list {
+    display: flex;
+    background-color: #424245;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    margin-top: 0px;
+    position: fixed;
+}
+
+.complex_list li {
+    list-style: none;
+}
+
+.complex_list li a {
+    margin: 25px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.block_type_1 {
+    width: 100%;
+    height: 705px;
+    margin-top: 0;
+    padding-top: 30px;
+    text-align: center;
+    line-height: 0.6em;
+}
+
+.block_type_1 h2 {
+    font-size: 50px;
+}
+
+.block_type_1 h3 {
+    font-size: 25px;
+}
+
+.block_type_1 p {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.block_type_1 a {
+    color: #2997FF;
+    font-size: 25px;
+    font-weight: lighter;
+    text-decoration: none;
+}
+
+.block_type_2 {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 40px;
+}
+.block_type_2_left {
+    margin-right: 80px;
+}
+.block1 {
+    background: url(images/iPhone14pro.jpg) fixed 50% 4%;
+    color: #FFFFFF;
+    padding-top: 50px;
+}
+
+.block2 {
+    background: url(images/xboxs.jpg) no-repeat 100%;
+    background-color: #F3F3F3;
+    text-align: 25px;
+}
+
+.block2 p {
+    line-height: 1em;
+}
+
+.block3 {
+    background: url(images/applewatch.jpg) no-repeat fixed 50% 100%;
+    background-color: black;
+    color: #FFFFFF;
+}
+
+.block3 h3 {
+    color: crimson;
+    letter-spacing: 0.5em;
+    font-size: 22px;
+}
+
+.block4 {
+    background: url(images/iPhone14.jpg) no-repeat 50%;
+}
+
+.block5 {
+    background: url(images/iPhone14pro.jpg) no-repeat 45%;
+    color: #FFFFFF;
+}
+.left1 {
+    background: url(images/subscriptions.jpeg);
+    height: 320px;
+    width: 540px;
+    margin-right: 80px;
+}
+.right1 {
+    background-image: url(images/One.jpeg);
+    height: 100px;
+    width: 317px;
+}
+.left2 {
+    background: url(images/fitness.jpeg);
+    width: 600px;
+    height: 300px;
+    margin-right: 100px;
+}
+footer {
+    padding-top: 30px;
+    background-color: #FFFFFF;
+    text-align: center;
+    height: 250px;
+}
+
+.line {
+    height: 2px;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-bottom: 25px;
+    background-color: #424245;
+}
+
+.more {
+    text-align: left;
+    margin-left: 90px;
+}
+
+.footer_img {
+    display: flex;
+}
+
+.footer_img img {
+    margin-left: 10px;
+    margin-top: 5px;
+    width: 40px;
+    height: 40px;
+}
+
+body a:hover {
+    color: #6a6a6b;
+    transition: 250ms
+}
