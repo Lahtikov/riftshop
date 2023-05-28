@@ -82,32 +82,32 @@ section a {
 }
 
 #part1_1_type3 {
-    background: url(../images/main/ipad.jpg) 50% 50%;
+    background: url(../images/main/ipad.webp) 50% 50%;
 }
 
 #part1_2_type3 {
-    background: url(../images/main/macbook.jpg) 50% 50%;
+    background: url(../images/main/macbook.webp) 50% 50%;
     color: #F3F3F3;
 }
 
 #part2_1_type3 {
-    background: url(../images/main/homepod.jpg) 50% 50%;
+    background: url(../images/main/homepod.webp) 50% 50%;
     color: #F3F3F3;
 }
 
 #part2_2_type3 {
-    background: url(../images/main/airpodspro.jpg) 50% 50%;
+    background: url(../images/main/airpodspro.webp) 50% 50%;
     color: #F3F3F3;
 }
 
 #block1_type1 {
-    background: url(../images/main/iPhone14pro.jpg) fixed 50% 4%;
+    background: url(../images/main/iPhone14pro.webp) fixed 50% 4%;
     color: #FFFFFF;
     padding-top: 50px;
 }
 
 #block2_type1 {
-    background: url(../images/main/xboxs.jpg) no-repeat 100%;
+    background: url(../images/main/xboxs.webp) no-repeat 100%;
     background-color: #F3F3F3;
     text-align: 25px;
 }
@@ -117,7 +117,7 @@ section a {
 }
 
 #block3_type1 {
-    background: url(../images/main/applewatch.jpg) no-repeat fixed 50% 100%;
+    background: url(../images/main/applewatch.webp) no-repeat fixed 50% 100%;
     background-color: black;
     color: #FFFFFF;
 }
@@ -129,11 +129,11 @@ section a {
 }
 
 #block4_type1 {
-    background: url(../images/main/iPhone14.jpg) no-repeat 50%;
+    background: url(../images/main/iPhone14.webp) no-repeat 50%;
 }
 
 #block5_type1 {
-    background: url(../images/main/iPhone14pro.jpg) no-repeat 45%;
+    background: url(../images/main/iPhone14pro.webp) no-repeat 45%;
     color: #FFFFFF;
 }
 
@@ -145,7 +145,7 @@ section a {
 }
 
 .left1 {
-    background: url(../images/main/subscriptions.jpeg);
+    background: url(../images/main/subscriptions.webp);
     height: 320px;
     width: 540px;
     margin-right: 80px;
@@ -158,20 +158,20 @@ section a {
 }
 
 .left2 {
-    background: url(../images/main/fitness.jpeg);
+    background: url(../images/main/fitness.webp);
     width: 600px;
     height: 300px;
     margin-right: 100px;
 }
 
 .left3 {
-    background-image: url(../images/main/news.jpg);
+    background-image: url(../images/main/news.webp);
     width: 700px;
     height: 600px;
 }
 
 #support {
-    background-image: url(../images/main/technice.jpg);
+    background-image: url(../images/main/technice.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
